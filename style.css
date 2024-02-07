@@ -1,0 +1,40 @@
+body{
+    font-family: Montserrat;
+    background-color: black;
+}
+.conteiner{
+    width: 1300px;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+/* .hero-block{
+    display: flex;
+    justify-content: space-between;
+} */
+footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+button{
+    padding: 10px 20px;
+    background-color: #6C3EB8;
+    color: white;
+    border-bottom: transparent;
+}
+.santa{
+    margin-top: 50px;
+}
+.santa-text{
+    text-align: center;
+}
+.less100{
+    margin-top: 50px;
+}
+.card{
+    background-color: black;
+}
